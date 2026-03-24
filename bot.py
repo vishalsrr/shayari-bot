@@ -5,7 +5,7 @@ import os
 from apscheduler.schedulers.background import BackgroundScheduler
 from collections import defaultdict
 
-TOKEN = os.getenv("BOT_TOKEN") or "8361512299:AAHpyGsmkMFRte2NZ92WAD2D9DaOB-tD2jc"   # ← Yahan apna token daal do (Railway pe env variable mein)
+TOKEN = os.getenv("BOT_TOKEN") or "8676041274:AAHt9EMWZTIO9yXG8ykqXDlwMOzW3m6_67I"   # ← Yahan apna token daal do (Railway pe env variable mein)
 bot = telebot.TeleBot(TOKEN)
 
 # ================== 80+ BEST HEART TOUCHING SHAYARI (No repeat until all used) ==================
